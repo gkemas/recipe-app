@@ -12,7 +12,7 @@ const About = () => {
         <h1>Front End Developer <span style={{fontSize:'1.3rem', color:'wheat'}}>Gökhan</span></h1>
         <InfoContainer>
           <h3>I'm Gökhan.</h3>
-          <p>I'm currently learning Full-Stack Development Languages.</p>
+          <p>I'm currently  learning Full-Stack Development Languages.</p>
           <p>I've already known JS, ReactJS, NodeJS, MongoDB, SQL, Python, Agile Methodologies.</p>
             <h4> email:kemasgokhan@gmail.com </h4>
         </InfoContainer>
