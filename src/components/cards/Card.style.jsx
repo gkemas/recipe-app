@@ -18,7 +18,7 @@ export const Card = styled(Flex)`
     transition: all 0.3s ease-in; 
   }
 `;
-// ee
+// e
 export const Image = styled.img`
   height: 10rem;
   border-radius: 10px;
