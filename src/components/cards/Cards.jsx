@@ -24,4 +24,3 @@ const Cards = ({ recipes }) => {
 };
 
 export default Cards;
-// dfdfdfff
